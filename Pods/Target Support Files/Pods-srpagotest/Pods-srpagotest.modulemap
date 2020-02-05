@@ -1,0 +1,6 @@
+framework module Pods_srpagotest {
+  umbrella header "Pods-srpagotest-umbrella.h"
+
+  export *
+  module * { export * }
+}
